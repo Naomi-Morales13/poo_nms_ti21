@@ -7,4 +7,3 @@
 variable1 = "Hola "  # Variable tipo str 
 variable2 = '619'  # Variable tipo int
 print(variable1 + variable2)  # Imprime la concatenación de 2 variables tipo str
-
