@@ -10,3 +10,4 @@
 |4.|programa3.py|print y Operaciones Aritmeticas|
 |5.|programa4.py|print en n1=numero1/numero1=numero1|
 |6.|programa5.py|input|
+|7.|programa6.py| area  y perimetro de un triangulo|
