@@ -15,3 +15,4 @@
 |9.|programa8.py|Unit Test|
 |10.|programa9.py|Distintas formas|
 |11.|programa10.py|Pythonic|
+|12.|programa11.py| Pythonic Recomendaciones|
