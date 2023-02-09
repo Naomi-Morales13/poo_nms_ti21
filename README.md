@@ -14,3 +14,4 @@
 |8.|programa7.py|área y perímetro de un circulo y un cuadrado|
 |9.|programa8.py|Unit Test|
 |10.|programa9.py|Distintas formas|
+|11.|programa10.py|Pythonic|
