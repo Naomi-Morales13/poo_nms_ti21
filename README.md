@@ -17,4 +17,5 @@
 |11.|programa10.py|Pythonic|
 |12.|programa11.py| Pythonic Recomendaciones|
 |13.|alumno.py|Instancias|
-|14.|herencia.py|Analizar lo que es una herenc
+|14.|herencia.py|Analizar lo que es una herencia|
+|15.|herencia1.py|Herencia|
