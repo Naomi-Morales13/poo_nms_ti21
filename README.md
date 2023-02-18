@@ -22,3 +22,4 @@
 |16.|herencia2.py| herencia con varias subclases|
 |17.|persona.py|clases con instancias|
 |18.|persona1.py| clases con instancias|
+|19.| carpeta clases alumno.py| clases en diferentes archivos|
