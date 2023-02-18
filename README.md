@@ -19,3 +19,4 @@
 |13.|alumno.py|Instancias|
 |14.|herencia.py|Analizar lo que es una herencia|
 |15.|herencia1.py|Herencia|
+|16.|herencia2.py| herencia con varias subclases|
