@@ -21,3 +21,4 @@
 |15.|herencia1.py|Herencia|
 |16.|herencia2.py| herencia con varias subclases|
 |17.|persona.py|clases con instancias|
+|18.|persona1.py| clases con instancias|
