@@ -6,13 +6,13 @@
 """
 
 
-def mayor(numero1, numero2): #Funciones
-    result = None
-    if numero1 > numero2:
-        result = numero1
-    elif numero2 > numero1:
-        result = numero2
-    return result
+def mayor(numero1, numero2): # Se define una Funcion
+    result = None # Variable None
+    if numero1 > numero2: # Es una comparacion para ver si numero1 es mayor
+        result = numero1 # obtiene el valor de numero1 en caso de ser verdadero
+    elif numero2 > numero1: # Es una comparacion para ver si numero2 es mayor
+        result = numero2 # obtiene el valor de numero1 en caso de ser verdadero
+    return result # Return es retornar el resultado
 
 
 print(mayor(2, 1)) # 2

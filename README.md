@@ -16,3 +16,4 @@
 |10.|programa9.py|Distintas formas|
 |11.|programa10.py|Pythonic|
 |12.|programa11.py| Pythonic Recomendaciones|
+|13.|alumno.py|Instancias|

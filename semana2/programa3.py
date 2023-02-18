@@ -2,7 +2,7 @@
     programa3.py
     #nombre: Naomi Morales
     #Fecha: 24/01/2023
-    #Descripcion:
+    #Descripcion: Usar print con operaciones aritméticas "format"
 """
 numero1 = 10 # numero int
 numero2 = 5 # numero int
