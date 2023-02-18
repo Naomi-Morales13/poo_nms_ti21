@@ -24,3 +24,4 @@
 |18.|persona1.py| clases con instancias|
 |19.|persona2.py|Instancias|
 |20.| carpeta clases alumno.py| clases en diferentes archivos|
+|21.| carpeta clases persona.py| diferentes archivos|
